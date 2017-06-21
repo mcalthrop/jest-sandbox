@@ -7,7 +7,7 @@
   "author": "Matt Calthrop <mcalthrop@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest --notify"
   },
   "devDependencies": {
     "jest": "^20.0.4"
