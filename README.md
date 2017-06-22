@@ -1,5 +1,5 @@
 # jest-sandbox
-playing with jest
+_Playing with jest &ndash; based on [Getting Started](https://facebook.github.io/jest/docs/en/getting-started.html)_
 
 ## Usage
 
